@@ -13,7 +13,6 @@ phases:
         - echo Build completed
 artifacts:
   files:
-    - ROOT.war
     - scripts/server_start.sh
     - scripts/server_stop.sh
     - appspec.yml
