@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 
 files:
-   - source: /test.jsp
+   - source: /ROOT.war
      destination: /home/ec2-user/tomcat/webapps/ROOT
 #    - source: /index.html
 #      destination: /var/www/html
