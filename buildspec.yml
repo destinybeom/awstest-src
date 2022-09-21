@@ -13,8 +13,7 @@ phases:
         - echo Build completed
 artifacts:
   files:
-    - test.jsp
-#     - index.html
+    - ROOT.war
     - scripts/server_start.sh
     - scripts/server_stop.sh
     - appspec.yml
