@@ -1,2 +1,1 @@
-# awstest-src
-awstest-deploy-sample code
+# jenkins deploy test
